@@ -28,7 +28,6 @@
  $mario = new Videogame ('Super Mario Bros.', 1985, 'NES','platform','Japan','multi-player');
  $crash = new Videogame ('Crash Bandicoot', 1996, 'PS1','platform','North America','single-player');
 
- //var_dump($tombi);
 $videogames = [
     $tombi, $mario, $crash
 ]
